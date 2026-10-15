@@ -1,0 +1,6 @@
+path: C:\Users\Viraj\Downloads\major project\vehicles
+train: images\train
+val: images\val
+
+nc: 10  # number of classes in your dataset
+names: ['car','car','bike','bike','bus','bus','rikshaw','rikshaw','scooty','scooty']
