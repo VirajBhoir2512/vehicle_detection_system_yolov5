@@ -240,7 +240,7 @@ If included in the repository, the following images can be displayed here:
 ## Project Team
 
 - Patil Anushka Abhijit Aarti -[@anubytepatil-alt](https://github.com/anubytepatil-alt)
-- Patil Mitali Sanjay Manisha  -[mitalipatil2605-beep](https://github.com/mitalipatil2605-beep)
+- Patil Mitali Sanjay Manisha  -[@mitalipatil2605-beep](https://github.com/mitalipatil2605-beep)
 - Bhoir Viraj Ravindra Savita - [@VirajBhoir2512](https://github.com/VirajBhoir2512)
 - Mhaske Sahil Sanjay Suhasini - [@mhaskesahil](https://github.com/student-sahi)
 
