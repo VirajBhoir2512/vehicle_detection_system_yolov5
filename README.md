@@ -237,12 +237,10 @@ If included in the repository, the following images can be displayed here:
 
 ![YOLOv5 recall curve](assets/R_curve.png)
 
-YOLOv5 typically saves these plots in the training run's `results/` directory (for example, `runs/train/exp/`). Copy the relevant PNG files into this repository's `assets/` directory and keep the filenames consistent with the links above. If your run uses a different experiment folder or filenames, adjust the paths accordingly. If a graph was not generated, remove its image link or add the graph before publishing the README.
-
-
 ## Project Team
 
 - Patil Anushka Abhijit Aarti -[@anubytepatil-alt](https://github.com/anubytepatil-alt)
+- Patil Mitali Sanjay Manisha  -[mitalipatil2605-beep](https://github.com/mitalipatil2605-beep)
 - Bhoir Viraj Ravindra Savita - [@VirajBhoir2512](https://github.com/VirajBhoir2512)
 - Mhaske Sahil Sanjay Suhasini - [@mhaskesahil](https://github.com/student-sahi)
 
